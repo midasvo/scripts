@@ -1,0 +1,1 @@
+echo "alias u='sudo apt-get update -y'" >> ~/.bashrc

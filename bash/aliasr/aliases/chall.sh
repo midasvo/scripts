@@ -1,0 +1,1 @@
+echo "alias chall='chmod +x *'" >> ~/.bashrc
